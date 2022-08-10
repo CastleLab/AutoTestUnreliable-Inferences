@@ -3,7 +3,7 @@
 This repo contains the code and the public dataset for *Automated Testing of DNN Models for Unreliable Inferences*
 
 ## Install Dataset
-The EgoHands dataset is stored at `./Tools/data_egohands/images`. To use it, please keep it under `./Tools/data_egohands/`.
+The EgoHands dataset is stored at `./Tool/data_egohands/images`. To use it, please keep it under `./Tool/data_egohands/`.
 
 ## Acknowledgment
 This work is supported by the Hong Kong ITF (Grant No: MHP/055/19) *Testing DNN Systems*.
