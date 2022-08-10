@@ -3,7 +3,7 @@
 This repo contains the code and the public dataset for *Automated Testing of DNN Models for Unreliable Inferences*
 
 ## Install Dataset
-We have prepared an [One Drive Link](https://hkustconnect-my.sharepoint.com/:u:/g/personal/mlick_connect_ust_hk/EWawiF0sbNRIgjhJYX5ep0kB11moVRkZwN3HjGW60ijeOg?e=Qrtsco) to access the EgoHands dataset.
+We have prepared the [OneDrive Link](https://hkustconnect-my.sharepoint.com/:u:/g/personal/mlick_connect_ust_hk/EWawiF0sbNRIgjhJYX5ep0kB11moVRkZwN3HjGW60ijeOg?e=Qrtsco) to access the EgoHands dataset.
 
 To use it, please download the dataset, rename it to "images" and put it under `./Tools/data_egohands/`
 
