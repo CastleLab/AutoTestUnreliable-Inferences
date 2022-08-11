@@ -12,8 +12,7 @@ Our method can also be applied to other datasets like [ImageNet](https://image-n
 This work is supported by the Hong Kong ITF (Grant No: MHP/055/19) *Testing DNN Systems*.
 
 ### Dataset
-We would like to thank the [IU Computer Vision Lab](http://vision.soic.indiana.edu/projects/egohands/) for providing the EgoHands dataset.
-We would also like to thank the http://roboflow.com for preprocessing the EgoHands dataset.
+We would like to thank the [IU Computer Vision Lab](http://vision.soic.indiana.edu/projects/egohands/) for their preparation of the EgoHands dataset and the http://roboflow.com for preprocessing the EgoHands dataset.
 
 
 ### Tools
