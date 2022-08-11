@@ -5,8 +5,8 @@ This repo contains the code and the public dataset for *Automated Testing of DNN
 ## Install Dataset
 The EgoHands dataset is stored at `./Tool/data_egohands/images`. To use it, please keep it under `./Tool/data_egohands/`.
 
-### Other dataset
-Our method can also be applied to other dataset like [ImageNet](https://image-net.org) and [MS COCO](https://cocodataset.org/#home).
+### Other datasets
+Our method can also be applied to other datasets like [ImageNet](https://image-net.org) and [MS COCO](https://cocodataset.org/#home).
 
 ## Acknowledgment
 This work is supported by the Hong Kong ITF (Grant No: MHP/055/19) *Testing DNN Systems*.
